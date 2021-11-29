@@ -43,10 +43,7 @@ const CartItem = ({ item, adjustQty, removeFromCart }) => {
           onClick={() => removeFromCart(item.id)}
           className={styles.actions__deleteItemBtn}
         >
-          <img
-            src="https://cdn-icons.flaticon.com/png/512/484/premium/484662.png?token=exp=1638160148~hmac=27a8246ba7c54c620555abc4dec90c9f"
-            alt=""
-          />
+        <img src="https://www.veryicon.com/download/png/commerce-shopping/uncle-of-e-commerce/delete-185?s=256" alt=""/> 
         </button>
       </div>
     </div>

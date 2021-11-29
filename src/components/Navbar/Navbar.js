@@ -26,7 +26,7 @@ const Navbar = ({ cart }) => {
           <h3 className={styles.cart__title}>Cart</h3>
           <img
             className={styles.cart__image}
-            src="https://cdn-icons.flaticon.com/png/512/2838/premium/2838895.png?token=exp=1638160363~hmac=a9f8473169976bb394c91157cb374953"
+            src="https://icon-library.com/images/cart-icon-png/cart-icon-png-4.jpg"
             alt="shopping cart"
           />
           <div className={styles.cart__counter}>{cartCount}</div>
